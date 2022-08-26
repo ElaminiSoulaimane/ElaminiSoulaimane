@@ -74,6 +74,9 @@ I try to ensure that for as many people as possible this does not end up with an
   <a href="http://soulaimaneelamini.me/">
     <img alt="My website" width="50px" src="https://freesvg.org/img/WWW-Icon-White-on-Grey.png" />
   </a>
+  <a href="https://www.codingplace.me/">
+    <img alt="My website" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blogger_icon_2017.svg/1200px-Blogger_icon_2017.svg.png" />
+  </a>
   <a href="https://www.youtube.com/channel/UCrVP_TED3c_iQ4UdEbWmu9A">
     <img alt="My Youtube chain " width="50px" src="http://www.rollet-raphael.com/img/youtube.94295b9e.png" />
   </a>
