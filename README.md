@@ -14,8 +14,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Rafa-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.frak2-1.fna.fbcdn.net/v/t39.30808-6/308444618_783117676256154_7122959620956738081_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=103&ccb=1-7&_nc_sid=110474&efg=eyJpIjoidCJ9&_nc_ohc=BDmM9Y6a99YAX-0eOCC&tn=sZYilERWar-uDdtj&_nc_ht=scontent.frak2-1.fna&oh=00_AT_BVX_e8MGLXfreNFr403mEv1jG8_Y0mP_FRA1P3xvtRQ&oe=633253E5">
 </div>
   
   ##
