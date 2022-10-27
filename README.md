@@ -1,4 +1,4 @@
-## Hiii, I'm Soulaimane Elamini, Full-stack developer and Technology Content!
+## Hi, I am Soulaimane Elamini, Full-stack developer and Technology Content!
 <div align="center">
   <a href="https://github.com/ElaminiSoulaimane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElaminiSoulaimane&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
