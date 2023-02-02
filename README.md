@@ -15,6 +15,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Rafa-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Rafa-sql" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
 </div>
   
   ##
