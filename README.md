@@ -1,10 +1,4 @@
-<!-- ## Hi, I am Soulaimane Elamini, Full-stack developer and Technology Content!
-<div align="center">
-  <a href="https://github.com/ElaminiSoulaimane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElaminiSoulaimane&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaminiSoulaimane&layout=compact&langs_count=7&theme=github_dark"/>
-  
-</div> -->
+
   
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -42,4 +36,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElaminiSoulaimane"><p>
  
 </div>
+ ## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=ElaminiSoulaimane">
 
