@@ -40,3 +40,26 @@
 <p><img src="https://github-profile-trophy.vercel.app/?username=ElaminiSoulaimane">
 </p>
 
+## Experience & Competence
+- Software development
+- Web development
+- Full-stack development
+- Front-end development
+- Back-end development
+- JavaScript
+- Python
+- HTML
+- CSS
+- Node.js
+- React
+- Laravel
+- SQL
+- NoSQL
+- Azure
+- Docker
+- Git
+- Agile development
+- Scrum
+- Code review
+- Open source
+- SonarQube
