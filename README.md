@@ -4,7 +4,7 @@ I'm passionate about building great software and delivering value to users, and 
 
 In addition to my technical skills, I'm a strong communicator and collaborator, and I'm always looking for ways to work more effectively with my team and stakeholders. I'm also committed to continuous learning and improvement, and I'm always looking for new opportunities to expand my skills and knowledge.
 
-If you're interested in working with a highly skilled and experienced full-stack developer, please don't hesitate to get in touch. You can find me on LinkedIn at "Soulaimane Elamini" and on GitHub at "ElaminiSoulaimane" . Let's build something amazing together!
+If you're interested in working with a highly skilled and experienced full-stack developer, please don't hesitate to get in touch. You can find me on LinkedIn at "Soulaimane Elamini" . Let's build something amazing together!
   
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
