@@ -29,9 +29,6 @@
 
 <!--    ![Snake animation](https://github.com/ElaminiSoulaimane/ElaminiSoulaimane/blob/output/github-contribution-grid-snake.svg) -->
  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElaminiSoulaimane&theme=github_dark">
- 
-</div>
 ## 📊 Github Status
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=ElaminiSoulaimane"><p>
@@ -43,3 +40,6 @@
 <p><img src="https://metrics.lecoq.io/ElaminiSoulaimane"><p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElaminiSoulaimane"><p>
+ 
+</div>
+
