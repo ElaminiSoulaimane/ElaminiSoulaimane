@@ -36,7 +36,8 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElaminiSoulaimane"><p>
  
 </div>
- ## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
 <p><img src="https://github-profile-trophy.vercel.app/?username=ElaminiSoulaimane">
+</p>
 
