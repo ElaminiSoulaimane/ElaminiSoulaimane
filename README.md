@@ -32,3 +32,14 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElaminiSoulaimane&theme=github_dark">
  
 </div>
+## 📊 Github Status
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=ElaminiSoulaimane"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=ElaminiSoulaimane&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaminiSoulaimane&layout=compact"><p>
+
+<p><img src="https://metrics.lecoq.io/ElaminiSoulaimane"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElaminiSoulaimane"><p>
