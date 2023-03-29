@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-sql" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
 </div>
   
-  ##
+##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCNimWtfFhub5UDY3akRqLEw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -25,7 +25,6 @@
  
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=ElaminiSoulaimane"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ElaminiSoulaimane&show_icons=true"><p>
 
