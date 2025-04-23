@@ -27,7 +27,14 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElaminiSoulaimane&show_icons=true&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaminiSoulaimane&layout=compact&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElaminiSoulaimane&theme=dark&background=00000000&hide_border=true)](https://git.io/streak-stats)
+## 📊 GitHub Metrics
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ElaminiSoulaimane&theme=dark&background=00000000&hide_border=true)](https://git.io/streak-stats)
+
+*Alternative if not loading:*
+```markdown
+![Alternative Streak](https://github-readme-streak-stats.vercel.app/?user=ElaminiSoulaimane&theme=dark)
 
 ## 🌐 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNimWtfFhub5UDY3akRqLEw)
@@ -35,6 +42,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soulaimane-elamini/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soulaimane.elamini1@gmail.com)
 
-## 💻 Recent Activity
-[![Soulaimane's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ElaminiSoulaimane&theme=react-dark&bg_color=00000000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
