@@ -32,6 +32,8 @@
 ![Repos](https://badges.pufler.dev/repos/ElaminiSoulaimane?color=blueviolet)
 ![Commits](https://badges.pufler.dev/commits/monthly/ElaminiSoulaimane?color=blueviolet)
 
+![Alternative Activity](https://activity-graph.herokuapp.com/graph?username=ElaminiSoulaimane&theme=github)
+
 ## 🌐 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNimWtfFhub5UDY3akRqLEw)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soulaimaneelamini)
