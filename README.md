@@ -27,12 +27,15 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElaminiSoulaimane&show_icons=true&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaminiSoulaimane&layout=compact&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## 💻 Recent Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElaminiSoulaimane&theme=react-dark&bg_color=00000000&hide_border=true)](https://github.com/ElaminiSoulaimane)
+
 ## 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=ElaminiSoulaimane&color=blueviolet)
 ![Repos](https://badges.pufler.dev/repos/ElaminiSoulaimane?color=blueviolet)
 ![Commits](https://badges.pufler.dev/commits/monthly/ElaminiSoulaimane?color=blueviolet)
 
-![Alternative Activity](https://activity-graph.herokuapp.com/graph?username=ElaminiSoulaimane&theme=github)
 
 
 ## 🌐 Connect With Me
