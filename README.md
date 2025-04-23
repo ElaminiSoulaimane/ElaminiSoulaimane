@@ -30,8 +30,6 @@
 ## 💻 Recent Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElaminiSoulaimane&theme=react-dark&bg_color=00000000&hide_border=true)](https://github.com/ElaminiSoulaimane)
-
-## 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=ElaminiSoulaimane&color=blueviolet)
 ![Repos](https://badges.pufler.dev/repos/ElaminiSoulaimane?color=blueviolet)
 ![Commits](https://badges.pufler.dev/commits/monthly/ElaminiSoulaimane?color=blueviolet)
