@@ -1,22 +1,21 @@
-𝕯𝖆𝖗𝖐 𝕮𝖔𝖉𝖊 𝕽𝖚𝖓𝖓𝖊𝖗
+# Soulaimane Elamini - Full Stack Developer
 
-━━━━━━━━━━━━━━━━━━━━
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Python, PHP, Laravel
+- Databases: MongoDB, MySQL
+- Tools: Git, Docker, Azure
 
-𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
-• HTML • CSS • JavaScript 
-• React • MongoDB • Python
-• PHP • MySQL • Laravel
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElaminiSoulaimane&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaminiSoulaimane&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ElaminiSoulaimane)
 
-━━━━━━━━━━━━━━━━━━━━
+## 🌐 Connect With Me
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNimWtfFhub5UDY3akRqLEw)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soulaimaneelamini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soulaimane-elamini/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soulaimane.elamini1@gmail.com)
 
-𝕮𝖔𝖓𝖓𝖊𝖈𝖙
-[YT](https://youtube.com) | [IG](https://instagram.com) 
-[Email](mailto:example@mail.com) | [LinkedIn](https://linkedin.com)
-
-━━━━━━━━━━━━━━━━━━━━
-
-𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘
-[![Stats](https://github-readme-stats.vercel.app/api?username=example)]
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=example)]
-
-𝕱𝖚𝖑𝖑-𝖘𝖙𝖆𝖈𝖐 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 | 𝕮𝖔𝖉𝖊 𝖆𝖗𝖙𝖎𝖘𝖙
+## 💻 Recent Activity
+<!-- GitHub activity graph will appear here -->
