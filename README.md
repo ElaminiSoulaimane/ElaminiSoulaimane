@@ -27,14 +27,10 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElaminiSoulaimane&show_icons=true&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaminiSoulaimane&layout=compact&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 GitHub Metrics
-
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ElaminiSoulaimane&theme=dark&background=00000000&hide_border=true)](https://git.io/streak-stats)
-
-*Alternative if not loading:*
-```markdown
-![Alternative Streak](https://github-readme-streak-stats.vercel.app/?user=ElaminiSoulaimane&theme=dark)
+## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=ElaminiSoulaimane&color=blueviolet)
+![Repos](https://badges.pufler.dev/repos/ElaminiSoulaimane?color=blueviolet)
+![Commits](https://badges.pufler.dev/commits/monthly/ElaminiSoulaimane?color=blueviolet)
 
 ## 🌐 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNimWtfFhub5UDY3akRqLEw)
